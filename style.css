@@ -81,6 +81,9 @@ p.checking{
 .activate{
     display: block;
 }
+*:hover{
+    cursor:pointer;
+}
 .general{
     margin-bottom: 10px;
     margin-top: 10px;
